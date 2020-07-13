@@ -1840,4 +1840,8 @@ form label {
   opacity: 0;
 }
 
+.responsive {
+	width: 100%;
+	height: auto;
+  }
 /*# sourceMappingURL=style.css.map */
